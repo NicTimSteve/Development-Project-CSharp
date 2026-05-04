@@ -4,4 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Development-Project-CSharp\Development Project\Sparcpoint.API\Sparcpoint.API.csproj" />
+  </ItemGroup>
+
 </Project>
